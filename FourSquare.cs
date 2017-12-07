@@ -23,7 +23,6 @@ namespace Robotka
         }
         public override void Special()
         {
-            base.Special();
             Console.Write(" сторона: ");
             Console.Write(side);
         }

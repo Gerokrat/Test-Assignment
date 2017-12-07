@@ -22,7 +22,6 @@ namespace Robotka
         }
         public override void Special()
         {
-            base.Special();
             Console.Write(" радиус: ");
             Console.Write(side);
         }

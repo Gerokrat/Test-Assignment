@@ -22,7 +22,6 @@ namespace Robotka
         }
         public override void Special()
         {
-            base.Special();
             Console.Write(" гипотенуза: ");
             Console.Write(Math.Sqrt(side * side));
         }

@@ -25,7 +25,6 @@ namespace Robotka
         }
         public override void Special()
         {
-            base.Special();
             Console.Write(" висота: ");
             Console.Write(side);
         }
